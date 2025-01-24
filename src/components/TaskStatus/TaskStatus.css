@@ -1,0 +1,9 @@
+.task-status {
+    margin-top: 16px;
+    font-size: 1rem;
+  }
+  
+  .task-status p {
+    font-size: 0.9rem;
+    color: #333;
+  }

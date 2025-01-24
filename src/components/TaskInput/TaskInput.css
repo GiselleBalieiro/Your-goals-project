@@ -1,0 +1,25 @@
+.task-input {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    font-size: 1rem;
+    color: #333;
+    background-image: linear-gradient(135deg, #f5f7fb, #e1e8f0);
+  }
+  
+  .add-task-btn {
+    background-image: linear-gradient(135deg, #6c95d6, #b881df);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .add-task-btn:hover {
+    background-image: linear-gradient(135deg, #b881df, #6c95d6);
+  }
