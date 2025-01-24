@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 package-lock.json
-package.json
+
 
 eslint.config.js
 
